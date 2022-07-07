@@ -4,11 +4,17 @@ The main objective is to detect the fake news, which is a classic text classific
 
 REQUIREMENTS:
 Python
+
 Numpy
+
 Pandas
+
 TfidfVectorizer
+
 PassiveClassifier
+
 Sklearn
+
 
 
 Data:
@@ -32,4 +38,7 @@ Now, lets split the training data amd testing data using train_test_split() func
 
 Refrences:
 https://www.youtube.com/watch?v=nacLBdyG6jE
+
+
+
 https://www.pantechsolutions.net/fake-news-detection-using-machine-learning
